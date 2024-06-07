@@ -7,3 +7,5 @@
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/22%20-%20Pop%20The%20Balloons"> 22 - Pop The Balloons </a>
 
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/23%20-%20Decimal%20To%20Binary"> 23 - Decimal To Binary </a>
+
+<a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/24%20-%20Tic%20Tac%20Toe"> 24 - Tic Tac Toe </a>
