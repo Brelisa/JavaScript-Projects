@@ -1,3 +1,5 @@
+<a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/16%20-%20Color%20Game"> 16 - Color Game </a>
+
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/17%20-%20Dice%20Rolle"> 17 - Dice Rolle </a>
 
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/18%20-%20Color%20Picker"> 18 - Color_Picker </a>
