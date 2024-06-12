@@ -17,3 +17,6 @@
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/23%20-%20Decimal%20To%20Binary"> 23 - Decimal To Binary </a>
 
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/24%20-%20Tic%20Tac%20Toe"> 24 - Tic Tac Toe </a>
+
+<a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/25%20-%20Stopwatch"> 25 - Stopwatch </a>
+
