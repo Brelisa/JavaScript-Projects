@@ -1,3 +1,5 @@
+<a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/08%20-%20Image%20Search%20App"> 08 - Image Search App </a>
+
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/09%20-%20Basic%20Calculator"> 09 - Basic Calculator </a>
 
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/10%20-%20Weight%20Converter"> 10 - Weight Converter </a>
