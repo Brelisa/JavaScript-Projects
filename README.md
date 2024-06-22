@@ -1,3 +1,5 @@
+<a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/07%20-%20Stopwatch"> 07 - Stopwatch </a>
+
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/08%20-%20Image%20Search%20App"> 08 - Image Search App </a>
 
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/09%20-%20Basic%20Calculator"> 09 - Basic Calculator </a>
