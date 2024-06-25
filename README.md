@@ -1,3 +1,5 @@
+<a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/04%20-%20Digital%20Clock"> 04 - Digital Clock </a>
+
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/05%20-%20Random%20Password%20Generator"> 05 - Random Password Generator </a>
 
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/06%20-%20Calendar"> 06 - Calendar </a>
