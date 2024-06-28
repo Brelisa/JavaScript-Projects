@@ -1,3 +1,5 @@
+<a href ="https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/01%20-%20Drum%20Kit"> 01 - Drum Kit </a>
+
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/02%20-%20Clock"> 02 - Clock </a>
 
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/03%20-%20Random%20Color%20Generator"> 03 - Random Color Generator </a>
