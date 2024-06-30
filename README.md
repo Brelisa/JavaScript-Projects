@@ -48,3 +48,4 @@
 
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/25%20-%20Stopwatch"> 25 - Stopwatch </a>
 
+<a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/26%20-%20Traffic%20Lights"> 26 - Traffic Lights </a>
