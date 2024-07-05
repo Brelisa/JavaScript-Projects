@@ -53,3 +53,5 @@
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/27%20-%20Levitate%20Board"> 27 - Levitate Board </a>
 
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/28%20-%20Dynamic%20Form%20Field"> 28 - Dynamic Form Field </a>
+
+<a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/29%20-%20Text%20Speed%20Control"> 29 - Text Speed Control </a>
