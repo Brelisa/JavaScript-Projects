@@ -59,3 +59,5 @@
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/30%20-%20Wave%20Effect"> 30 - Wave Effect </a>
 
 <a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/31%20-%20Drawing%20Pad"> 31 - Drawing Pad </a>
+
+<a href = "https://github.com/Brelisa/JavaScript-Projects/tree/main/JavaScript%20Projects/32%20-%20Weather%20App"> 32 - Weather App </a>
